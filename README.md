@@ -1,4 +1,5 @@
-## Hi!! I'm Caio Milhan
+## Hi, welcome to my page!! I'm Caio Milhan
 
-- 🌱 Student in .Net + Angular training at let´s code
+- 🌱 Studied and graduate in .Net + Angular at let´s code
+- 👨‍💻 I work as a Back-End developer.
 - 📫 Contact me on email: caiomilhan.m@gmail.com
